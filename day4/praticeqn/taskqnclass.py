@@ -7,7 +7,7 @@ def find_average(*args):
 
 find_average(10, 20, 30, 40, 50)
 
-# to seprate the odd and even numbers
+# to seprate the odd and even numbers from the given user inputs
 
 def Odd_or_Even(*args):
     odd=0
