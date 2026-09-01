@@ -6,6 +6,7 @@ def squareroot():
 
 squareroot()
 
+
 # Terminal-based calculator
 
 def add(a, b):
@@ -19,7 +20,7 @@ def mul(a, b):
 
 def divi(a, b):
     if b == 0:
-        return "Cannot divide by zero!"
+        return "Cannot divide by zero!,re-enter the value of b"
     return a / b
 
 def calculator():
