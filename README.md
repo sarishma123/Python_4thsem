@@ -14,4 +14,5 @@ This repo contains my practice code and notes while learning NumPy (Python libra
 - Useful functions (sum, mean, max, min, sort)
 - Random number generation
 - numpy and pandas
+- Dived in the the basic of ML
 
